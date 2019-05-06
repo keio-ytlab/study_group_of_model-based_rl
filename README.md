@@ -10,7 +10,7 @@
 
 # Schedule
 
-# 3rd (May 11th)
+## 3rd (May 11th)
 
 **IOC**
 
@@ -18,19 +18,19 @@
 - Continuous Inverse Optimal Control with Locally Optimal Examples
 - Inverse Optimal Control for Humanoid Locomotion
 
-# 4th (May 25th)
+## 4th (May 25th)
 
 **iterative LQR**
 
 - Synthesis and stabilization of complex behaviors through online trajectory optimization
 - Iterative Linear Quadratic Regulator Design for Nonlinear Biological Movement Systems
 
-# 5th (June 8th)
+## 5th (June 8th)
 
 **GPS**
 
 - Guided Policy Search
 
-# 6th (June 22th)
+## 6th (June 22th)
 
 - Not decided yet
