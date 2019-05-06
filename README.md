@@ -6,6 +6,6 @@
 
 # 2nd (May 6th)
 
-- [Model-Based Reinforcement Learning for Atari](https://speakerdeck.com/yuishihara/model-based-reinforcement-learning-for-atari)
+- [Model-Based Reinforcement Learning for Atari, PPO, TRPO](https://speakerdeck.com/yuishihara/model-based-reinforcement-learning-for-atari)
 
 # 3rd (May 11th)
