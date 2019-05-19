@@ -8,7 +8,7 @@
 
 - [Model-Based Reinforcement Learning for Atari, PPO, TRPO](https://speakerdeck.com/yuishihara/model-based-reinforcement-learning-for-atari)
 
-# 3rd (May 19th)
+# 3rd (May 18th)
 
 - [IOC, GPIRL](https://speakerdeck.com/watakandhi/model-based-reinforcement-learning)
 
