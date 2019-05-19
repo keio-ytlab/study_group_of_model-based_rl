@@ -14,7 +14,7 @@
 
 **IOC**
 
-- Nonlinear Inverse Reinforcement Learning with Gaussian Processes
+- [Nonlinear Inverse Reinforcement Learning with Gaussian Processes](https://speakerdeck.com/watakandhi/model-based-reinforcement-learning)
 - Continuous Inverse Optimal Control with Locally Optimal Examples
 - Inverse Optimal Control for Humanoid Locomotion
 
