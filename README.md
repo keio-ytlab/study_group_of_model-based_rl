@@ -8,15 +8,11 @@
 
 - [Model-Based Reinforcement Learning for Atari, PPO, TRPO](https://speakerdeck.com/yuishihara/model-based-reinforcement-learning-for-atari)
 
+# 3rd (May 19th)
+
+- [IOC, GPIRL](https://speakerdeck.com/watakandhi/model-based-reinforcement-learning)
+
 # Schedule
-
-## 3rd (May 11th)
-
-**IOC**
-
-- [Nonlinear Inverse Reinforcement Learning with Gaussian Processes](https://speakerdeck.com/watakandhi/model-based-reinforcement-learning)
-- Continuous Inverse Optimal Control with Locally Optimal Examples
-- Inverse Optimal Control for Humanoid Locomotion
 
 ## 4th (May 25th)
 
