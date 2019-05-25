@@ -12,14 +12,11 @@
 
 - [IOC, GPIRL](https://speakerdeck.com/watakandhi/model-based-reinforcement-learning)
 
+# 4th (May 25th)
+
+- [iterative LQR](https://speakerdeck.com/yuishihara/synthesis-and-stabilization-of-complex-behaviors-through-online-trajectory-optimization)
+
 # Schedule
-
-## 4th (May 25th)
-
-**iterative LQR**
-
-- Synthesis and stabilization of complex behaviors through online trajectory optimization
-- Iterative Linear Quadratic Regulator Design for Nonlinear Biological Movement Systems
 
 ## 5th (June 8th)
 
