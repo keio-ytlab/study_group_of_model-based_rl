@@ -16,13 +16,11 @@
 
 - [iterative LQR](https://speakerdeck.com/yuishihara/synthesis-and-stabilization-of-complex-behaviors-through-online-trajectory-optimization)
 
+# 5th (June 8th)
+
+- [Guided Policy Search, maximum entropy model](https://speakerdeck.com/shunichi09/guided-policy-search)
+
 # Schedule
-
-## 5th (June 8th)
-
-**GPS**
-
-- Guided Policy Search
 
 ## 6th (June 22th)
 
